@@ -46,7 +46,9 @@ h2{
     padding: 15px 50px;
     border-radius: 5px;
 }
-
+#side{
+    margin-right: 50px;
+}
 #sec-2{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
